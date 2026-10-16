@@ -15,6 +15,9 @@ El programa trabajará con datos ficticios y deberá permitir:
 - Una breve explicación: qué hace el programa, qué concepto le resultó más difícil y cómo lo resolvió.
 - Un repositorio de GitHub
 
+## RETO 1: RESULTADO
+![captura de pantalla](reto1.png)
+
 ## NIVEL 2 - Escribe el programa desde cero usando esta lista de comprobación:
 - Define una lista de cinco gastos.
 - Calcula el total con un bucle.
@@ -22,6 +25,9 @@ El programa trabajará con datos ficticios y deberá permitir:
 - Utiliza una condición para mostrar los gastos superiores a 20 €.
 - Compara el total con el presupuesto de 100 €.
 - Organiza al menos una 
+
+## RETO 2: RESULTADO
+![captura de pantalla](reto2.png)
 
 ## NIVEL 3: Añade dos mejoras:
 - Crea una función calcular_total(gastos) que devuelva el total.
